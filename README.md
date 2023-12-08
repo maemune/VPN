@@ -1,6 +1,6 @@
-<h1>Windows VPN 自動設定
-WindowsのVPN接続設定を自動化しています。
-</h1>
+<h1>Windows VPN 自動設定</h1>
+<p>WindowsのVPN接続設定を自動化しています。</p>
+
 <h2>使用方法</h2>
 <p>VPN_Create.batをダウンロード後、実行</p>
 
